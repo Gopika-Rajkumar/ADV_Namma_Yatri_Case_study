@@ -1,16 +1,16 @@
 # ADV_Namma_Yatri_Case_study
 
-Namma-Yatri-Trips-Analysis
+Namma-Yatri-Trips-Analysis: 
 This repository contains all the essential files and documentation needed to understand, implement, and explore the Namma Yatri data dashboard. The project leverages Power BI for data visualization, SQL for data extraction and manipulation, and Excel for raw data storage.
 
-Project Overview
+Project Overview: 
 Namma Yatri is a community initiative aimed at providing a seamless auto and cab booking experience across several cities including Bengaluru, Delhi, Hyderabad, Chennai, Kochi, Mysore, and Tumkur. This project is designed to track and visualize key performance metrics of the service, providing insights into operations, user engagement, and financial performance.
 
-Key Components:
+Key Components: 
 Data Visualization (Power BI):
 
 Purpose: The data dashboard is designed to give an at-a-glance view of crucial metrics, including the number of completed trips, search activities, fare estimates, driver earnings, and conversion rates.
-Visuals:
+Visuals: 
 Trips vs Duration: Visualizes the relationship between the number of trips and their duration.
 Fare vs Duration: Shows how the fare correlates with trip duration.
 Distance vs Duration: Displays the relationship between distance traveled and trip duration.
